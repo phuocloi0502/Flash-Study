@@ -1,0 +1,210 @@
+[
+  {
+    "id": "1",
+    "kanji": "父親",
+    "furigana": "ちちおや",
+    "meaning": "bố tôi, người bố",
+    "example": "父親（ちちおや）は今年（ことし）50歳（さい）になる。",
+    "exampleMeaning": "Bố tôi năm nay 50 tuổi."
+  },
+  {
+    "id": "2",
+    "kanji": "母親",
+    "furigana": "ははおや",
+    "meaning": "mẹ tôi, người mẹ",
+    "example": "母親（ははおや）の料理（りょうり）は、とてもおいしい。",
+    "exampleMeaning": "Các món ăn của mẹ tôi nấu rất ngon."
+  },
+  {
+    "id": "3",
+    "kanji": "長女",
+    "furigana": "ちょうじょ",
+    "meaning": "trưởng nữ, con gái cả, con gái đầu lòng",
+    "example": "私（わたし）は長女（ちょうじょ）で、妹（いもうと）が一人（ひとり）いる。",
+    "exampleMeaning": "Tôi là con gái cả, dưới tôi còn có một em gái nữa."
+  },
+  {
+    "id": "4",
+    "kanji": "長男",
+    "furigana": "ちょうなん",
+    "meaning": "trưởng nam, con trai cả, con trai đầu lòng",
+    "example": "姉（あね）に元気（げんき）な長男（ちょうなん）が生（う）まれた。",
+    "exampleMeaning": "Chị tôi đã sinh được một cậu con trai đầu lòng khỏe mạnh."
+  },
+  {
+    "id": "5",
+    "kanji": "次女",
+    "furigana": "じじょ",
+    "meaning": "con gái thứ hai",
+    "example": "次女（じじょ）は母（はは）に似（に）ている。",
+    "exampleMeaning": "Cô con gái thứ hai giống mẹ."
+  },
+  {
+    "id": "6",
+    "kanji": "次男",
+    "furigana": "じなん",
+    "meaning": "con trai thứ hai",
+    "example": "次男（じなん）はとても背（せ）が高（たか）い。",
+    "exampleMeaning": "Cậu con trai thứ hai người rất cao."
+  },
+  {
+    "id": "7",
+    "kanji": "三女",
+    "furigana": "さんじょ",
+    "meaning": "con gái thứ ba",
+    "example": "三（さん）女（じょ）は小学（しょうがく）一（いち）年生（ねんせい）だ。",
+    "exampleMeaning": "Cô con gái thứ ba là học sinh lớp một tiểu học."
+  },
+  {
+    "id": "8",
+    "kanji": "三男",
+    "furigana": "さんなん",
+    "meaning": "con trai thứ ba",
+    "example": "三男（さんなん）は兄弟（きょうだい）の中（なか）で一番（いちばん）元気（げんき）だ。",
+    "exampleMeaning": "Trong anh em, cậu con trai thứ ba là khỏe mạnh nhất."
+  },
+  {
+    "id": "9",
+    "kanji": "末っ子",
+    "furigana": "すえっこ",
+    "meaning": "con út",
+    "example": "彼（かれ）は5人（にん）兄弟（きょうだい）の末っ子（すえっこ）だ。",
+    "exampleMeaning": "Anh ấy là con út trong gia đình có 5 anh em."
+  },
+  {
+    "id": "10",
+    "kanji": "一人っ子",
+    "furigana": "ひとりっこ",
+    "meaning": "con một",
+    "example": "私（わたし）の友（とも）だちには、一人っ子（ひとりっこ）が多（おお）い。",
+    "exampleMeaning": "Bạn bè tôi nhiều người là con một."
+  },
+  {
+    "id": "11",
+    "kanji": "姉妹",
+    "furigana": "しまい",
+    "meaning": "chị em gái",
+    "example": "私（わたし）は3人（にん）姉妹（しまい）の末っ子（すえっこ）だ。",
+    "exampleMeaning": "Tôi là con út trong gia đình có 3 chị em gái."
+  },
+  {
+    "id": "12",
+    "kanji": "一人娘",
+    "furigana": "ひとりむすめ",
+    "meaning": "con gái độc nhất, con gái duy nhất",
+    "example": "父親（ちちおや）は一人娘（ひとりむすめ）の結婚式（けっこんしき）で泣（な）いた。",
+    "exampleMeaning": "Người cha đã khóc trong đám cưới của cô con gái duy nhất của mình."
+  },
+  {
+    "id": "13",
+    "kanji": "親子",
+    "furigana": "おやこ",
+    "meaning": "bố mẹ con cái",
+    "example": "最近（さいきん）、親子（おやこ）でよく海外（かいがい）旅行（りょこう）をしている。",
+    "exampleMeaning": "Gần đây, bố mẹ con cái hay đi du lịch nước ngoài cùng nhau."
+  },
+  {
+    "id": "14",
+    "kanji": "夫婦",
+    "furigana": "ふうふ",
+    "meaning": "vợ chồng",
+    "example": "砂糖（さとう）さん夫婦（ふうふ）は、毎日（まいにち）散歩（さんぽ）している。",
+    "exampleMeaning": "Vợ chồng anh Sato hằng ngày đi dạo."
+  },
+  {
+    "id": "15",
+    "kanji": "［ご］夫妻",
+    "furigana": "［ご］ふさい",
+    "meaning": "vợ chồng",
+    "example": "部長（ぶちょう）ご夫妻（ふさい）の家（いえ）に招待（しょうたい）された。",
+    "exampleMeaning": "Tôi được vợ chồng trưởng phòng mời đến nhà chơi."
+  },
+  {
+    "id": "16",
+    "kanji": "親類",
+    "furigana": "しんるい",
+    "meaning": "họ hàng",
+    "example": "田中（たなか）さんと私（わたし）は親類（しんるい）だ。",
+    "exampleMeaning": "Anh Tanaka và tôi là chỗ họ hàng."
+  },
+  {
+    "id": "17",
+    "kanji": "先祖",
+    "furigana": "せんぞ",
+    "meaning": "tổ tiên",
+    "example": "うちの先祖（せんぞ）に、有名（ゆうめい）なサムライがいるそうだ。",
+    "exampleMeaning": "Nghe nói trong tổ tiên nhà tôi có một vị samurai nổi tiếng."
+  },
+  {
+    "id": "18",
+    "kanji": "尊敬＜する＞",
+    "furigana": "そんけ＜する＞",
+    "meaning": "kính trọng",
+    "example": "私（わたし）は両親（りょうしん）をとても尊敬（そんけい）している。",
+    "exampleMeaning": "Tôi rất kính trọng bố mẹ tôi."
+  },
+  {
+    "id": "19",
+    "kanji": "おじ",
+    "furigana": "Không có Furigana",
+    "meaning": "chú, cậu, bác trai",
+    "example": "父（ちち）とおじは二人（ふたり）兄弟（きょうだい）だ。",
+    "exampleMeaning": "Bố tôi và chú tôi là hai anh em."
+  },
+  {
+    "id": "20",
+    "kanji": "おば",
+    "furigana": "Không có Furigana",
+    "meaning": "cô, dì, bác gái",
+    "example": "私（わたし）は母親（ははおや）よりおばに、いろいろ相談（そうだん）する。",
+    "exampleMeaning": "Tôi tâm sự nhiều với dì hơn là mẹ."
+  },
+  {
+    "id": "21",
+    "kanji": "いとこ",
+    "furigana": "Không có Furigana",
+    "meaning": "anh chị em họ",
+    "example": "今日（きょう）、いとこが遊（あそ）びに来（く）る。",
+    "exampleMeaning": "Hôm nay tôi đi chơi với người em họ."
+  },
+  {
+    "id": "22",
+    "kanji": "おい",
+    "furigana": "Không có Furigana",
+    "meaning": "cháu trai",
+    "example": "おいが生（う）まれて、私（わたし）もおばさんになった。",
+    "exampleMeaning": "Cháu trai chào đời, thế là tôi trở thành dì (cô)."
+  },
+  {
+    "id": "23",
+    "kanji": "めい",
+    "furigana": "Không có Furigana",
+    "meaning": "cháu gái",
+    "example": "おいもめいも、とてもかわいい。",
+    "exampleMeaning": "Cả cháu trai lẫn cháu gái đều rất dễ thương."
+  },
+  {
+    "id": "24",
+    "kanji": "連れる",
+    "furigana": "つれる",
+    "meaning": "dẫn đi, dắt đi",
+    "example": "子（こ）どもを連（つ）れて、近所（きんじょ）の公園（こうえん）に行（い）く。",
+    "exampleMeaning": "Tôi dắt con đi chơi công viên gần nhà."
+  },
+  {
+    "id": "25",
+    "kanji": "似る",
+    "furigana": "にる",
+    "meaning": "giống",
+    "example": "Ａ（えい）「お父さんとお母さん、どちらに似（に）ていますか。」\n                            \n                            Ｂ（びー）「父（ちち）に似（に）ていると言（い）われます。」",
+    "exampleMeaning": "A: Bố với mẹ thì bạn giống ai ?B: Mọi người bảo tôi giống bố."
+  },
+  {
+    "id": "26",
+    "kanji": "そっくりな",
+    "furigana": "Không có Furigana",
+    "meaning": "giống hệt, giống như đúc",
+    "example": "妹（いもうと）の顔（かお）は、父親（ちちおや）にそっくりだ。",
+    "exampleMeaning": "Gương mặt của em gái giống bố như đúc."
+  }
+]
