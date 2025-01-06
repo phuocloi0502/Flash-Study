@@ -3,6 +3,7 @@ import "./header.scss";
 import logoWeb from "../../assets/logo_web.png";
 import { FaHome } from "react-icons/fa";
 import { FaUser } from "react-icons/fa";
+import { Link } from "react-router";
 export const Header = (props) => {
   return (
     <div className="header-area">
@@ -12,17 +13,32 @@ export const Header = (props) => {
       </div>
       <div className="main-menu">
         <div className="menu-item">
-          <span>
+          <Link to={"/"}>
             {" "}
-            <FaHome />
-          </span>
+            <span>
+              {" "}
+              <FaHome />
+            </span>
+          </Link>
         </div>
-        <div className="menu-item">Từ Vựng</div>
-        <div className="menu-item">Ngữ Pháp</div>
-        <div className="menu-item">Kanji</div>
-        <div className="menu-item">Blog</div>
         <div className="menu-item">
-          <FaUser />
+          <Link to={"/tuvung"}>Từ Vựng</Link>
+        </div>
+        <div className="menu-item">
+          <Link to={"/nguphap"}>Ngữ Pháp</Link>
+        </div>
+        <div className="menu-item">
+          {" "}
+          <Link to={"/kanji"}>Kanji</Link>
+        </div>
+        <div className="menu-item">
+          {" "}
+          <Link to={"/blog"}>Blog</Link>
+        </div>
+        <div className="menu-item">
+          <Link to={"/account"}>
+            <FaUser />
+          </Link>
         </div>
         <div className="menu-item sign-button">Sign up</div>
       </div>

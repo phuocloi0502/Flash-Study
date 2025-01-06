@@ -1,4 +1,4 @@
-@import "../../styles/_color.scss";
+@use "../../styles/_color.scss" as *;
 .header-area {
   height: 70px;
   width: 100%;
@@ -6,9 +6,9 @@
   flex-wrap: wrap;
   position: fixed;
   background-color: $main-blue;
-  color: white;
+  color: rgb(251, 251, 251);
   font-size: 1.1rem;
-  font-weight: 600;
+
   justify-content: space-between;
   align-items: center;
   padding: 0 20px;
@@ -41,16 +41,35 @@
     span {
       font-size: 1.5rem;
     }
+    a:hover {
+      color: #3c3a3a;
+      transition: all 0.3s ease-in-out;
+    }
   }
+
   .sign-button {
     text-decoration: underline;
   }
-  :hover {
-    background-color: rgb(72, 69, 69);
-    cursor: pointer;
-    transition: all 0.2s ease-in;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  30% {
+    transform: translateY(-10px);
+  }
+  50% {
+    transform: translateY(0);
+  }
+  70% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0);
   }
 }
+
 @media (max-width: 768px) {
   .header-area {
     height: auto;
